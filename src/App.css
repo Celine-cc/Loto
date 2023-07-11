@@ -1,0 +1,11 @@
+body{ 
+ 
+  background-color: rgb(124, 183, 235);
+}
+
+.Title {
+  display: flex;
+  justify-content: center;
+  
+
+}
